@@ -1,0 +1,39 @@
+
+
+.container{
+    width: 100%;
+    display: flex;
+    
+}
+
+.button_action{
+    width: 3%;
+    height: 400px;
+    margin: 17px;
+}
+.title_page{
+   width: 100%;
+   
+    color: #fff;
+}
+
+.title_page span{
+    
+    background-color: var(--cor0);
+    margin-top: 20px;
+    padding: 6px;
+    border-radius: 20px;
+}
+
+.title_page span:hover{
+    background-color: var(--cor4);
+    cursor: pointer;
+}
+.relatorio{
+    width: 97%;
+  
+}
+
+.pagination_button{
+    margin-top: 20px;
+}

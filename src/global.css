@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    -webkit-font-smoothing:antialiased;
+    background-color: #f1f1f1;
+}
+
+:root{
+    --cor0:#4C3F91;
+    --cor1:#9145B6;
+    --cor2:#B958A5;
+    --cor4:#FF5677;
+    --cor5:#ffffff;
+    --cor6:0c0ce94d;
+    --black:#130f0d;
+    --primary:hsl(32,98%,56%);
+    --white:#f0f0f9;
+
+}

@@ -1,0 +1,20 @@
+
+:root{
+    --cor0:#4C3F91;
+    --cor1:#9145B6;
+    --cor2:#B958A5;
+    --cor4:#FF5677;
+}
+.container button{
+    border: 1px solid var(--cor4);
+    background-color: var(--cor0);
+    color: #fff;
+
+}
+
+.container button:hover{
+   
+    background-color: var(--cor4);
+    color: #fff;
+
+}

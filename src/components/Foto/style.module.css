@@ -1,0 +1,14 @@
+.container{
+    border: 1px solid #ccc;
+}
+
+.container img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    
+}
+
+.container input{
+    display: none;
+}

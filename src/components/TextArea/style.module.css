@@ -1,0 +1,12 @@
+.container label{
+    display: block;
+    margin-bottom: 10px;
+}
+
+.container TextArea{
+    border: 1px solid var(--cor4);
+    border-radius: 10px;
+    outline: 0;
+    padding: 15px;
+  
+}

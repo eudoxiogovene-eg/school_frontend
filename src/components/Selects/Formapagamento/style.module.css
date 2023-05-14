@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+}
+.container label{
+    display: flex;
+    margin-right: 20px;
+  
+}
+.container select{
+    margin: 0.5rem 0;
+    border: 1px solid var(--cor4);
+    border-radius:10px;
+    box-shadow: 1px 1px 6px #0000001c;
+    
+    
+}
+
+.container select:focus-visible{
+    outline: 1px solid var(--cor4);
+}
+
+.container select:focus-visible{
+    border: 1px solid var(--cor4);
+    outline: none;
+}

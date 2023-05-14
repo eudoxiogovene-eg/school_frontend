@@ -1,0 +1,28 @@
+
+.container{
+    width: 270px;
+    background-color: var(--cor0);
+    padding: 15px;
+}
+.content{
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-bottom: 15px;
+}
+.content button{
+    width: 100%;
+    padding: 17px;
+    border: none;
+    background-color: var(--cor4);
+    color: var(--cor0);
+    font-size: 18px;
+    font-weight: bold;
+
+}
+
+.content button:hover{
+    background-color: var(--cor2);
+}

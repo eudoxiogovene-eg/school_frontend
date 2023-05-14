@@ -1,0 +1,8 @@
+.conatainer{
+    width: 100%;
+}
+.conatainer input {
+    padding: 8px;
+    outline: 0;
+    border:1px solid #6c63ff;
+}

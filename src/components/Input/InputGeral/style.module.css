@@ -1,0 +1,30 @@
+
+
+.input_box label{
+    display: block;
+
+}
+
+
+.input_box{
+    display: flex;
+    flex-direction: column;
+    padding:0 15px;
+    margin-bottom: 3px;
+}
+
+.input_box input{
+    margin: 0.6rem 0;
+    border: 1px solid var(--cor4);
+    border-radius:10px;
+    box-shadow: 1px 1px 6px #0000001c;
+    
+}
+.input_box input:hover{
+    background-color: #eeeeee75;
+}
+.input_box input:focus-visible{
+    outline: 1px solid var(--cor4);
+    outline: none;
+}
+

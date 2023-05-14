@@ -1,0 +1,147 @@
+
+
+.container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    background-color: #0c0ce94d;
+    padding: 10px;
+}
+
+.container_geral{
+    width: 100%;
+    height: 100%;
+   
+}
+
+.top_container{
+    width: 100%;
+    height: 202px;
+    margin-bottom: 15px;
+}
+
+.filter_and_namepage_container{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+   margin-bottom: 8px;
+   gap: 10px;
+}
+
+.filtro{
+    width: 50%;
+}
+.namepage{
+    width: 50%;
+    
+}
+
+.table_and_image_container{
+    width: 100%;
+    height: 160px;
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+.tabela{
+   width: 50%;
+}
+
+.image{
+    width: 20%;
+}
+
+
+
+
+.bottom_container{
+    width: 100%;
+    height: 320px;
+    background-color: #fff;
+    padding: 8px;
+}
+
+.content_form{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color:#0c0ce94d;
+    padding: 8px;
+}
+.form{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    background-color: #fff;
+}
+.form_left{
+    width: 33.3%;
+    height: 100%;
+    
+}
+
+.form_center{
+    width: 33.3%;
+    height: 100%;
+   
+}
+
+.form_right{
+    width: 33.3%;
+    height: 100%;
+
+}
+.form_action{
+    width: 16%;
+    height: 100%;
+    background-color: #fff;
+}
+
+.action_button{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+
+.select_button{
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 15px;
+}
+
+.image_and_action_button{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    
+}
+
+.button_action_container{
+    display: flex;
+}
+
+.confirm_popup{
+    width: fit-content;
+    height: fit-content;
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translateX(-50%);
+}
+
+
+.infoPopup{
+    width: fit-content;
+    height: fit-content;
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translateX(-50%);
+}
